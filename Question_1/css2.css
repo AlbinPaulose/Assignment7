@@ -1,0 +1,22 @@
+﻿body{
+    background-color:aliceblue;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 70px;
+    width: 50%;
+}
+th{
+    text-align:left;
+    padding:15px;
+}
+td{
+    padding:10px;
+}
+tr:nth-child(even){
+    background-color:lightgreen;
+}
+tr:nth-child(odd){
+    background-color:#ffffff;
+}

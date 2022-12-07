@@ -1,0 +1,22 @@
+﻿body {
+    background-color: aliceblue;
+}
+table{
+    margin-left:auto;
+    margin-right:auto;
+    padding-top:70px;
+    width:40%;
+    border:1px solid #ffffff;
+}
+td,th {
+    border:1px solid #ff0000
+}
+th{
+    background-color:yellow;
+}
+td{
+    background-color:green;
+    color:white;
+    padding:15px;
+
+}
